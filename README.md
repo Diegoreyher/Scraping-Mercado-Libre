@@ -1,4 +1,4 @@
-# Scraping de Productos en Mercado Libre <img width="173" height="50" alt="image" src="https://github.com/user-attachments/assets/b7fe7974-2a42-48a2-848b-f035d7e17b94" />
+# Scraping de Productos en Mercado Libre <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b7fe7974-2a42-48a2-848b-f035d7e17b94" />
 
 
 ## 📌 Descripción del Proyecto
